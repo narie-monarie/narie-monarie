@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @narie-monarie
+- 👀 I’m interested in Backend Dev
+- 🌱 I’m currently learning Go
+- 📫 How to reach me monarijob@yahoo.com
