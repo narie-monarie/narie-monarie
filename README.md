@@ -5,19 +5,15 @@
 
 # Greetings
 
-I am Job Monari. I like to code cool stuff mostly using Golang, Typescript and Python I also like messing around with Linux. 
+I am Job Monari. I like to code cool stuff mostly using Golang, Typescript and Python.
+I also like messing around with Linux. 
 I love to learning new things and meet new people of similar interests. 
 Please do check out my repositories to have a look at the projects that I have made. 
 I am always on the lookout for collaborating with new people and building cool stuff. 
 
 # My Interests
 
-- Math
 - Python
-- C/C++
 - Linux
 - Golang
-- Java
 - Typescript
-
-**Currently working on:** [Typescript Backend](https://github.com/narie-monarie/TypeScript-Backend)
